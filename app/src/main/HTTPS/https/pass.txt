@@ -1,0 +1,10 @@
+ca_key_pass:wonderful@123456
+ca_p12_pass:wonderful@p12
+ca_jks_pass:wonderful@jks
+service_key_pass:service@123456
+service_p12_pass:service@p12
+service_jks_pass:service@jks
+client_key_pass:client@123456
+client_p12_pass:client@p12
+client_jks_pass:client@jks
+
